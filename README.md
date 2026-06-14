@@ -1,14 +1,13 @@
-Этот репозиторий содержит три проекта, направленных на построение рекомендательной системы постов в социальной сети.
+Этот репозиторий содержит четыре проекта, демонстрирующих построение рекомендательной системы постов в социальной сети - от базового решения до A/B-тестирования и deep learning подхода.
 
-## 🔗 Содержание
+## Содержание
 
 1. [Базовая рекомендательная система](project_1_basic_recommender/README.md)
 2. [Улучшенная система с нейросетевым методом](project_2_skip_gram_text/README.md)
 3. [A/B тестирование моделей](project_3_ab_test/README.md)
-4. [Deep Learning рекомендательная система (Two-Tower + Transformer)](project_4_dl_transformer_recommender/README.md) 
+4. [Deep Learning рекомендательная система (Two-Tower + Transformer)](project_4_dl_transformer_recommender/README.md)
 
-
-## 💡 Ключевые технологии
+## Ключевые технологии
 - CatBoost  
 - TF-IDF + SVD  
 - Word2Vec (Skip-gram)  

@@ -1,5 +1,3 @@
-## 🔎 `project_4_dl_transformer_recommender/README.md`
-
 # Project 4 - Рекомендательная система на Two-Tower + Transformer embeddings
 
 ## Задача
@@ -23,13 +21,13 @@
 - `train_two_tower.py` - обучение two-tower модели
 - `app_dl.py` - FastAPI сервис для рекомендаций
 
-## 🚀 Запуск проекта
+## Запуск проекта
 
 ### 1. Клонировать репозиторий
 
-```
+```bash
 git clone https://github.com/ovelsad/ml-recommender-portfolio.git
-cd your_repo/project_4_dl_transformer_recommender
+cd ml-recommender-portfolio/project_4_dl_transformer_recommender
 ```
 
 ### 2. Установить зависимости

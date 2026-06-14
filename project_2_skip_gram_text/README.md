@@ -1,6 +1,3 @@
-## 🔎 `project_2_deep_recommender/README.md`
-
-
 # Project 2 - Улучшенная рекомендательная система с нейросетевым методом.
 
 ## Задача
@@ -18,14 +15,14 @@
 - `load_db_tf_idf__word2vec.py` - генерация TF-IDF и word2vec векторов
 - `ml_dl_app_2_version.py` - FastAPI сервис с новой моделью `catboost_neuro.cbm`
 
-##  Запуск проекта
+## Запуск проекта
 
 ### 1. Клонировать репозиторий
 
-
-```git clone https://github.com/ovelsad/ml-recommender-portfolio.git```
-
-```cd your_repo/project_2_skip_gram_text bash```
+```bash
+git clone https://github.com/ovelsad/ml-recommender-portfolio.git
+cd ml-recommender-portfolio/project_2_skip_gram_text
+```
 
 ### 2. установить зависимости
 
